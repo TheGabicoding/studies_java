@@ -1,4 +1,3 @@
-package códigos.estrutura_condicional;
 import java.util.Scanner;
 //exercicio que lê vetores e retorna qual quadrante o vetor pertence
 public class ex7 {
