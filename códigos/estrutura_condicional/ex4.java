@@ -1,4 +1,3 @@
-package códigos.estrutura_condicional;
 import java.util.Scanner;
 //exercicio para mostrar quantas horas durou um jogo
 public class ex4 {

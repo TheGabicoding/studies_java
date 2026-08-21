@@ -1,4 +1,3 @@
-package códigos.estrutura_condicional;
 import java.util.Scanner;
 //exercício para retornar o valor de uma conta com base na multiplicação do código do prod pela quantidade
 public class ex5 {

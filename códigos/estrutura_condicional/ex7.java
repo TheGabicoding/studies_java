@@ -1,4 +1,3 @@
-package códigos.estrutura_condicional;
 import java.util.Scanner;
 public class ex7 {
     public static void main(String[] args){
@@ -7,7 +6,7 @@ public class ex7 {
         double x = sc.nextDouble();
         double y = sc.nextDouble();
 
-
+        
 
         sc.close();
     }
