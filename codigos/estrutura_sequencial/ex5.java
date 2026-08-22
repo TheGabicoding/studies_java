@@ -4,11 +4,9 @@ public class ex5 {
         
         Scanner sc = new Scanner(System.in);
 
-        int cod1 = sc.nextInt();
         int n1 = sc.nextInt();
         double price1 = sc.nextDouble();
 
-        int cod2 = sc.nextInt();
         int n2 = sc.nextInt();
         double price2 = sc.nextDouble();
 
