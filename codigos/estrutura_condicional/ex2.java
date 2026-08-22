@@ -1,3 +1,4 @@
+package códigos.estrutura_condicional;
 import java.util.Scanner;
 //exercício para ver se o código é par ou ímpar
 public class ex2 {

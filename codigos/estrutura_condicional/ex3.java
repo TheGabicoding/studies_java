@@ -1,3 +1,4 @@
+package códigos.estrutura_condicional;
 import java.util.Scanner;
 //exercício para verificar se os números são múltiplos ou não.
 public class ex3 {

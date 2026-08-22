@@ -1,3 +1,4 @@
+package códigos.estrutura_condicional;
 import java.util.Scanner;
 //exercício para ver se o número é negativo ou não
 public class ex1 {
